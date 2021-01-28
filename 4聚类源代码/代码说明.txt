@@ -1,0 +1,13 @@
+Eliminate outliers：
+在提取的特征数据中，需要先进行数据清洗。3σ准则，手动提出matlab提取的特征。然后进行下面的分析步骤。
+要注意，数据清洗对于分类判别是至关重要的。
+
+Paper_distribution comparison：
+对比 在线的粒径测量 和 离线测量（贝克曼） 的结果
+
+Pulse classification part M%
+实现有标签样本的聚类判别。
+
+
+Pulse classification part M1%
+实现无标签样本的聚类判别。
